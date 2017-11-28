@@ -1,0 +1,18 @@
+#picScroll{
+	white-space: nowrap;
+	overflow: hidden;
+	width: 600px;
+	border:1px solid black;
+}
+#inpicScroll{
+	width: 800%;
+	float: left;
+}
+#picScroll1{
+	float: left;
+	margin-right: 10px;
+}
+#picScroll2{
+	float: left;
+	margin-left: 10px;
+}
